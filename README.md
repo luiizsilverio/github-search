@@ -22,8 +22,8 @@ Ao clicar no Repositório, mostra o número de stars, forks e issues.
 * <ins>React-router-dom</ins> para trabalhar com rotas
 
 ## :camera_flash: Screenshots
-![](https://github.com/luiizsilverio/github-search/public/images/tela1.png)
-![](https://github.com/luiizsilverio/github-search/public/images/tela2.png)
+![](https://github.com/luiizsilverio/github-search/blob/main/public/images/tela1.png)
+![](https://github.com/luiizsilverio/github-search/blob/main/public/images/tela2.png)
 
 ## :balance_scale: Licença
 Este projeto está licenciado sob a [licença MIT](LICENSE).
